@@ -10,6 +10,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
+    background-color: lightblue;
 }
 
 html { 
@@ -361,8 +362,10 @@ article .icon {
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 250;
+    height: 250px;
+    
+    
 }
 
 .project-title {
@@ -424,3 +427,4 @@ footer {
 footer p {
     text-align: center;
 }
+
