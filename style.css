@@ -290,6 +290,12 @@ section {
     bottom: 2.5rem;
 }
 
+.text-container {
+    padding-left: 2rem;
+    font-style: italic;
+    
+}
+
 .details-container {
     padding: 1.5rem;
     flex: 1;
@@ -298,6 +304,15 @@ section {
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
     text-align: center;
+    font-style: italic;
+
+.drexel-icon {
+    width: 25px;
+    height: auto;
+    padding-left: 1rem;
+    display: inline-block;
+    margin-bottom: -0.2rem;
+    
 }
 
 .section-container {
