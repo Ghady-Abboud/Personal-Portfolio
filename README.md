@@ -1,1 +1,1 @@
-This is my personal portfolio website, I utilized HTML along with CSS to design and style the web contents. Through this website, you'll have an idea of who I am and what projects I've been working on. 
+This is my personal portfolio website, I utilized HTML along with CSS to design and style the web contents. Through this website, you'll be introduced to some of the projects I've completed or currently working on, as well as the skills I offer. I also included a section that talks about me more in depth.
