@@ -175,7 +175,15 @@ section {
     height: 400px;
     width: 400px;
     margin: auto 0;
+    overflow: hidden;
 }
+
+.section__pic-container img {
+    width: 80%; /* Makes sure the image fills the circular container */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 50%;
+}
+
 
 .section__text { 
     align-self: center;
@@ -283,6 +291,7 @@ section {
 .about-pic {
     border-radius: 2rem;
 }
+
 
 .arrow {
     position: absolute;
